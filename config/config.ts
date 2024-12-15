@@ -20,6 +20,16 @@ export default defineConfig({
       component: './Home',
     },
     {
+      name: '组件 示例',
+      path: '/component',
+      component: './Component',
+    },
+    {
+      name: 'Hooks 示例',
+      path: '/hooks',
+      component: './Hooks',
+    },
+    {
       name: '权限演示',
       path: '/access',
       component: './Access',
