@@ -21,8 +21,8 @@ export default defineConfig({
     },
     {
       name: '组件示例',
-      path: '/component',
-      component: './Component',
+      path: '/componentDemo',
+      component: './ComponentDemo',
     },
     {
       name: 'Hooks示例',
