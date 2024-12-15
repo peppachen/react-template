@@ -20,12 +20,12 @@ export default defineConfig({
       component: './Home',
     },
     {
-      name: '组件 示例',
+      name: '组件示例',
       path: '/component',
       component: './Component',
     },
     {
-      name: 'Hooks 示例',
+      name: 'Hooks示例',
       path: '/hooks',
       component: './Hooks',
     },
